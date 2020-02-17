@@ -1,0 +1,2 @@
+licenses/linux-2.6.21.x.tgz filter=lfs diff=lfs merge=lfs -text
+licenses/linux-2.6.36.x.tgz filter=lfs diff=lfs merge=lfs -text
